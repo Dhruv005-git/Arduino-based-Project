@@ -72,7 +72,6 @@ README.md           → This file
 ## Photos
 
 * `photos/running_project.jpg` → Project running
-* `photos/team_working.jpg` → Team working on project
 
 ---
 
